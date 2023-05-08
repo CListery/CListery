@@ -1,5 +1,7 @@
+![clistery.github.readme](https://count.getloli.com/get/@clistery.github.readme?theme=rule34)
+
 - 👋 Hi, I’m @CListery
-- 👀 I’m interested in Android.IOS,MCU...
+- 👀 I’m interested in Android.IOS,PHP,WEB,MCU...
 - 📫 How to reach me: cai1084088795@gmail.com
 - 📖 Blog: [clistery.github.io](https://clistery.github.io/)
 
