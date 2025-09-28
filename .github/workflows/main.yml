@@ -28,7 +28,7 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
-          SHOW_LOC_CHART: "TRUE"
+          SHOW_LOC_CHART: "False"
           SYMBOL_VERSION: "2"
       - uses: Platane/snk/svg-only@v3
         with:
