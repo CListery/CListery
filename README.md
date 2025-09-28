@@ -7,11 +7,15 @@ You can click the Preview link to take a look at your changes.
 
 ![clistery.github.readme](https://count.getloli.com/get/@clistery.github.readme?theme=rule34)
 
+#### About Me
+
 - 👋 Hi, I’m @CListery
 - 👀 I’m interested in Android.IOS,PHP,WEB,MCU...
 - 📫 How to reach me: <cai1084088795@gmail.com>
 - 📖 Blog: [clistery.github.io](https://clistery.github.io/)
 - [TG](https://t.me/clistery)
+
+---
 
 <div>
   <picture>
@@ -37,6 +41,8 @@ You can click the Preview link to take a look at your changes.
     <img height=170 align="center" src="https://github-readme-stats-nine-mu-70.vercel.app/api/top-langs/?username=CListery&theme=synthwave&langs_count=10&layout=compact&border_radius=1&hide_border=true&exclude_repo=clistery.github.io&hide_title=true&card_width=310" />
   </picture>
 </div>
+
+#### Time
 
 <!--START_SECTION:waka_time-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2055%20mins-blue)
@@ -103,15 +109,10 @@ Vue                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 % 
 ```
 
-
-
-**时间线**
-
-![Lines of Code chart](https://raw.githubusercontent.com/CListery/CListery/main/assets/bar_graph.png)
-
-
  Last Updated on 2025-09-28 01:45:38 UTC
 <!--END_SECTION:waka_time-->
+
+#### Updates
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake-dark.svg" />
