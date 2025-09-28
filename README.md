@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![clistery.github.readme](https://count.getloli.com/get/@clistery.github.readme?theme=rule34) -->
 
+![clistery.github.readme](https://count.getloli.com/get/@clistery.github.readme?theme=rule34)
+
 - 👋 Hi, I’m @CListery
 - 👀 I’m interested in Android.IOS,PHP,WEB,MCU...
 - 📫 How to reach me: <cai1084088795@gmail.com>
@@ -110,3 +112,9 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 2025-09-28 01:45:38 UTC
 <!--END_SECTION:waka_time-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake-dark.svg" />
+</picture>
