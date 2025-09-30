@@ -27,7 +27,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "Frue"
           SHOW_LOC_CHART: "False"
           SYMBOL_VERSION: "2"
       - uses: Platane/snk/svg-only@v3
