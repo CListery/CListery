@@ -109,7 +109,7 @@ Vue                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 #### Updates
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CListery/CListery/0efe3c0019a0b9dcf375a2ede41f6f324f9fa07b/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CListery/CListery/snake-gen/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CListery/CListery/snake-gen/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CListery/CListery/snake-gen/github-snake-dark.svg" />
 </picture>
