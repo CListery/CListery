@@ -45,13 +45,11 @@ You can click the Preview link to take a look at your changes.
 #### Time
 
 <!--START_SECTION:waka_time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2058%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2026
+> 🏆 158 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,41 +57,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                776 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.18 % 
-🌆 Daytime                744 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.15 % 
-🌃 Evening                42 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.66 % 
-🌙 Night                  16 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.01 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   241 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.27 % 
-Tuesday                  277 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.55 % 
-Wednesday                250 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.84 % 
-Thursday                 256 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.22 % 
-Friday                   372 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.57 % 
-Saturday                 85 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.39 % 
-Sunday                   97 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     6 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.53 % 
-Other                    2 hrs 29 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.55 % 
-TypeScript               2 hrs 27 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.31 % 
-JavaScript               1 hr 24 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.89 % 
-HTML                     30 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.55 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -107,7 +70,7 @@ Vue                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 2026-05-27 23:47:46 UTC
+ Last Updated on 2026-05-28 23:51:56 UTC
 <!--END_SECTION:waka_time-->
 
 #### Updates
